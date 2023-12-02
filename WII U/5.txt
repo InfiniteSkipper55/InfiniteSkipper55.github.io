@@ -1,0 +1,33 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="\NINTENDO\Zelda.css">
+</head>
+<body>
+<div class="container">
+
+<h1 style="color:red;">5) Mario kart 8</h1>
+
+<b>Developer:</b> Nintendo EAD<br>
+<b>Publisher:</b> Nintendo<br>
+<b>Genre:</b> Kart Racing<br>
+<b>Year Released:</b> 2014<p>
+
+<h2>Summary:</h2>
+The game continues the traditional gameplay of the Mario Kart series, in which characters from the Mario universe race against each other in go-karts, attempting to hinder their opponents or improve their racing performance using various tools found in item boxes. In addition, the game includes four different difficulties, which can be selected before beginning the race to challenge players. Returning features from previous installments include motorbikes, and twelve-player racing from Mario Kart Wii, as well as hang gliders, underwater racing and vehicle customization from Mario Kart 7.<p>
+
+<i>Mario Kart 8's</i> new features include anti-gravity racing, in which certain parts of a track can allow racers to drive on walls and ceilings. During these sections, players can bump into other racers or special bumpers to trigger a Spin Boost, which gives them an extra speed boost. New characters include the Koopalings, Baby Rosalina, and Pink Gold Peach. New items include the Boomerang Flower, which can be thrown to attack players, the Piranha Plant, which attacks nearby racers and obstacles, the Crazy Eight, which gives the user eight items, and the Super Horn, which can be used both to attack nearby opponents and defend against items, including the previously nearly unavoidable Spiny Shell. The game features 32 tracks in eight cups (Mushroom, Flower, Star, Special, Shell, Banana, Leaf, and Lightning), with an additional 16 later released as downloadable content (DLC) in four additional cups: Egg, Triforce, Crossing, and Bell.<p>
+
+Along with local multiplayer, Mario Kart 8 supports online multiplayer with up to twelve players and voice chat outside of races. Prior to the cancellation of Nintendo's Miiverse social network on November 7, 2017, players could set up tournaments with customizable rules and schedules, share races automatically recorded in-game to the online video platform YouTube, and receive in-game stamps for use on Miiverse by beating staff times and completing Grand Prix races. Due to the cancellation of Miiverse, these features have been removed from the game, although downloading ghost data from friends or top players is still possible.<p>
+
+
+<center><h2>Screenshots</h2><br></center>
+<center>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\MARIO KART 8 S1.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\MARIO KART 8 S2.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\MARIO KART 8 S3.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\MARIO KART 8 S4.jpg" height=450 width=700>
+</center>
+</div>
+</body>
+</html>
+

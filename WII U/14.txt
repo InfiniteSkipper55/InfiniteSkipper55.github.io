@@ -1,0 +1,34 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="\NINTENDO\Zelda.css">
+</head>
+<body>
+<div class="container">
+
+<h1 style="color:red;">14) Affordable Space Adventures</h1>
+
+<b>Developer:</b> KnapNok Games<br>
+<b>Publisher:</b> KnapNok Games<br>
+<b>Genre:</b> Puzzle, Adventure<br>
+<b>Year Released:</b> 2015<p>
+
+<h2>Summary:</h2>
+The goal of <i>Affordable Space Adventures</i> is to explore the environment of Spectaculon and find a means to request evacuation from the planet. The player controls the Small Craft, a small flying ship that can move around in two dimensions and interact with its environment in limited ways. A variety of systems are available to the player by pressing buttons on the gamepad and its touch screen, including a flashlight and scanner, two different engines, a mass generator, an anti-gravity device, several landing gears, etc. The gamepad thus functions as the Small Craft's control panel, both allowing the player to control the ship and tweak its systems, and conveying important information about the environment and the ship's functions.<p>
+
+The game is broken up into a series of levels consisting of puzzles of increasing complexity. Some puzzles require the player to open doors by pressing buttons hidden among the environment, while others are only passable by blocking lasers with objects found in the environment, or by sneaking past alien artifacts that will attack the Small Craft if it generates too much noise, heat or electrical radiation (a set of output meters indicate what each artifact's thresholds are after they are scanned).<p>
+
+Up to two additional players may join the game at the beginning using Wii Remotes or Wii Classic Controllers, taking over movement and scanning functions. The game also features two difficulty levels, Tourist and Technical, and a separate DLC pack, the Origin Story, consists of much harder levels.<p>
+
+
+<center><h2>Screenshots</h2><br></center>
+<center>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\AFFORDABLE SAPCE ADVENTURES S1.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\AFFORDABLE SAPCE ADVENTURES S2.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\AFFORDABLE SAPCE ADVENTURES S3.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\AFFORDABLE SAPCE ADVENTURES S4.jpg" height=450 width=700>
+</center>
+
+</div>
+</body>
+</html>
+

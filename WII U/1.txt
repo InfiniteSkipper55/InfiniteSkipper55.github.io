@@ -1,0 +1,27 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="\NINTENDO\Zelda.css">
+</head>
+<body>
+<div>
+
+<b>Developer:</b> Nintendo EPD<br>
+<b>Publisher:</b> Nintendo<br>
+<b>Genre:</b> Action, Adventure<br>
+<b>Year Released:</b> 2017<p>
+
+<h2>Summary:</h2>
+<i>The Legend of Zelda: Breath of the Wild</i> is an action-adventure game set in an open world environment where players are tasked with exploring the kingdom of Hyrule while controlling Link. In terms of structure, Breath of the Wild encourages nonlinear gameplay, which is illustrated by the game's lack of defined entrances or exits to areas, scant instruction given to the player, and encouragement to explore freely. Breath of the Wild introduces a consistent physics engine to the Zelda series, letting players approach problems in different ways rather than trying to find a single solution. The game also integrates a "chemistry engine" that defines the physical properties of most objects and governs how they interact with the player and one another. For example, players may take advantage of the game's dynamic weather by throwing metal objects at enemies during thunderstorms to attract a lightning strike. These design approaches result in a generally unstructured and interactive world that rewards experimentation and allows for nonlinear completion of the story.<p>
+
+As Link, players can perform actions such as running, climbing, swimming, and gliding with a paraglider, although Link is limited by his stamina. Link can procure items from the environment, including weapons, food, and other resources. Unlike previous Zelda games, weapons and shields will degrade over time. Many items have multiple uses; for example, wooden weapons and armor can be set to light fires or collect incoming enemy arrows, and shields can be used as makeshift snowboards. Players can obtain food from hunting animals, gathering wild fruit, or collecting parts of deceased enemies. By cooking combinations of food or materials, the player can create meals and elixirs that can replenish Link's health and stamina, or provide temporary status bonuses such as increased strength or weather resistance. An important tool in Link's arsenal is the "Sheikah Slate", which can be used to mark waypoints on a map. Over the course of the game, Link can collect powers to add to the Slate, including remote bombs, the ability to manipulate metal objects, form ice blocks on watery surfaces, and temporarily stopping objects in time. In combat, players can lock onto targets for more precise attacks, while certain button combinations allow for advanced offensive and defensive moves. Players may also defeat enemies without weapons, such as rolling boulders off cliffs into enemy camps.<p>
+
+
+<h2>Screenshots</h2><br>
+<img src="\TOP 20 WII U GAMES OF ALL TIME\THE LEGEND OF ZELDA BREATH OF THE WILD S1.jpg" height=350 width=550>
+<img src="\TOP 20 WII U GAMES OF ALL TIME\THE LEGEND OF ZELDA BREATH OF THE WILD S2.jpg" height=350 width=550>
+<img src="\TOP 20 WII U GAMES OF ALL TIME\THE LEGEND OF ZELDA BREATH OF THE WILD S3.jpg" height=350 width=550>
+<img src="\TOP 20 WII U GAMES OF ALL TIME\THE LEGEND OF ZELDA BREATH OF THE WILD S4.jpg" height=350 width=550>
+
+<div>
+</body>
+</html>

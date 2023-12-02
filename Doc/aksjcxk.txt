@@ -1,0 +1,18 @@
+<h1 style="color:red;"></h1>
+
+<b>Developer:</b> <br>
+<b>Publisher:</b> <br>
+<b>Genre:</b> <br>
+<b>Year Released:</b> 20<p>
+
+<h2>Summary:</h2>
+
+
+
+<h2>Screenshots</h2><br>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\ S1.jpg" height=350 width=550>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\ S2.jpg" height=350 width=550>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\ S3.jpg" height=350 width=550>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\ S4.jpg" height=350 width=550>
+
+<h2>Download</h2>

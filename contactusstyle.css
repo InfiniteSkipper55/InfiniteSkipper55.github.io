@@ -1,0 +1,48 @@
+body
+{
+	background:none;
+	background-attachment:fixed;
+}
+#para
+{
+	height:40%;
+	width:100%;
+	background-color:white;
+	margin-left:0%;
+	opacity:0.8;
+}
+#form
+{
+	height:75%;
+	width:60%;
+	background-color:white;
+	opacity:0.8;
+	margin-left:20%;
+}
+.form-control
+{  
+    margin-left:2%;
+	width: 400px;
+	background:transparent;
+	border:4px;
+	font-size:18px;
+}
+input
+{   
+	height:45px;
+}
+form .submit
+{
+	background: #ff5722;
+	border-color: transparent;
+	color: #fff;
+	font-size: 15px;
+	font-weight:bold;
+	letter-spacing:2px;
+	height:40px;
+	width:400px;
+	margin-top:20px;
+	border-radius:20px;
+	
+}
+	

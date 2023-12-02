@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Login Page</title>
+</head>
+<body>
+
+</hr>
+<form action="\Yo\Login Page.html" method="post" name="form1" id="form1">
+<fieldset>  <legend>Personal Information</legend>
+Customer name:
+<input type="text" name="username" size="30"  maxlength="20">
+<br><br>
+Password:
+<input type="password" name="pass" size="30" maxlength="20">
+<br><br>Comments:
+<textarea name="comments" id="comment" row="8" cols="50">this is your comments
+</textarea><br><br>
+Birthday: <input type="date" name="bday"><br><br>
+Gender: <br>
+<input type="radio" name="gender" value="male" checked>Male<br>
+<input type="radio" name="gender" value="female" checked>Female<br>
+<input type="radio" name="gender" value="other" checked>Other
+<br><br>
+<select name="cars" size="2">
+<option value="volvo">Volvo</option>
+<option value="saab">Saab</option>
+<option value="fiat">Fiat</option>
+<option value="audi">Audi</option>
+</select>
+<button type="button" onclick="alert('Hello World!')">Click Me!</button>
+<br><br><input type="submit" value="Submit">
+</fieldset>
+</form>
+
+
+
+
+</body>
+</html>

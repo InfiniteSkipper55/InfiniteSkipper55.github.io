@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>TOP 20 WII U GAMES OF ALL TIME</title>
+<link rel="stylesheet" type="text/css" href="\NINTENDO\Zelda.css">
+<link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
+</head>
+<body>
+
+<center>
+<h1 style="font-family:'Great Vibes', cursive; font-size:70px; font-weight:800;">WII U Infinity</h1>
+<a href="\WII U\1.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\THE LEGEND OF ZELDA BREATH OF THE WILD.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\2.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\SUPER MARIO 3D WORLD.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\3.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\PIKMIN 3.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\4.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\BAYONETTA 2.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\5.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\MARIO KART 8.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\6.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\THE LEGEND OF ZELDA THE WIND WALKER HD.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\7.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\SUPER MARIO MAKER.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\8.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\SHOVEL KNIGHT.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\9.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\NINTENDO LAND.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\10.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\RAYMAN LEGENDS.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\11.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\SUPER SMASH BROS.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\12.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\CAPTAIN TOAD TREASURE TRACKER.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\13.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\SPLATOON.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\14.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\AFFORDABLE SPACE ADVENTURES.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\15.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\THE LEGEND OF ZELDA TWILIGHT PRINCESS HD.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\16.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\NES REMIX.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\17.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\MONSTER HUNTER 3 ULTIMATE.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\18.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\TOKYO MIRAGE SESSIONS.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\19.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\AXIOM VERGE.jpg" height=600 width=400>
+</a>
+
+
+<a href="\WII U\20.html">
+<img src="\TOP 20 WII U GAMES OF ALL TIME\DONKEY KONG COUNTRY.jpg" height=600 width=400>
+</a>
+</center>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="\NINTENDO\Zelda.css">
+</head>
+<body>
+<div class="container">
+
+<h1 style="color:red;">16) NES Remix Pack</h1>
+
+<b>Developer:</b> Nintendo EAD Tokyo<br>
+<b>Publisher:</b> Nintendo<br>
+<b>Genre:</b> Action, Arcade<br>
+<b>Year Released:</b> 2013<p>
+
+<h2>Summary:</h2>
+Most challenges are simply excerpts from vintage games, involving timed tasks such as speedrunning, clearing an area without dying, or defeating a certain number of enemies while utilizing a given power-up.<p>
+
+The remix categories are additionally based on the fundamental reshaping or combination of games, sometimes by blending in more modern graphical features of the Wii U, for a new experience that may even be technologically impossible on the vintage NES. For example: completing a darkened level which is lit only by a spotlight superimposed over the player's character; navigating upon disappearing platforms in Super Mario Bros.; or playing a Donkey Kong stage as Link instead of Mario, challenged by Link's inability to jump.<p>
+
+NES Remix 2 contains two particularly substantial remixes. Reminiscent of 1990's Nintendo World Championships tour across America, the Nintendo World Championships Remix is unlocked if NES Remix is also purchased and its save file is present. This remix pushes players through three successive challenges in Super Mario Bros., Super Mario Bros. 3, and Dr. Mario, in order to achieve a ranking score on its new online leaderboards. Super Luigi Bros. is a Luigi themed remix of the entire Super Mario Bros. game which is now played reverse-mirrored from right to left. It features Luigi's higher jumping ability which had not been originally introduced until the 1986 Japanese sequel Super Mario Bros. 2.<p>
+
+Ultimate NES Remix is a Nintendo 3DS game featuring a select compilation of games and challenges from the first two Wii U releases. It uniquely features Speed Mario Bros., which is the entirety of the original Super Mario Bros. running at a much faster speed. Ultimate NES Remix also has a new mode known as Famicom Remix, which is unlocked by getting all the stars from the original missions. It has all the missions from the original mode, but all the games featured runs on the original Famicom hardware.<p>
+
+
+<center><h2>Screenshots</h2><br></center>
+<center>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\NES REMIX S1.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\NES REMIX S2.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\NES REMIX S3.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\NES REMIX S4.jpg" height=450 width=700>
+</center>
+
+</div>
+</body>
+</html>
+

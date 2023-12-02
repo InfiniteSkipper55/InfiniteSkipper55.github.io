@@ -1,0 +1,36 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="\NINTENDO\Zelda.css">
+</head>
+<body>
+<div class="container">
+
+<h1 style="color:red;">3) Pikmin 3</h1>
+
+<b>Developer:</b> Nintendo EAD<br>
+<b>Publisher:</b> Nintendo<br>
+<b>Genre:</b> Real time Strategy<br>
+<b>Year Released:</b> 2013<p>
+
+<h2>Summary:</h2>
+In the game, the player commands a horde of up to 100 plant-like creatures called Pikmin, and uses their unique abilities to explore the in-game world and uncover treasures within it. Pikmin can be directed to accomplish various tasks, such as building bridges, destroying barriers, collecting spoils and defeating enemies. They come in various colors and different physical features that signify their special abilities or immunities to hazards. For example, Red Pikmin are immune to fire, Yellow Pikmin are immune to electricity, and Blue Pikmin can swim in water without drowning.<p>
+
+Alongside the returning red, yellow and blue Pikmin from previous Pikmin games, Pikmin 3 introduces two new Pikmin types: grey-colored Rock Pikmin, which can destroy tough barriers, such as glass, crystals, enemy armor, and are immune to being crushed by heavy objects, and pink-colored Winged Pikmin, which can attack airborne enemies, carry items through the air, and travel over water, but are still able to drown.<p>
+
+The player controls up to three new different leaders of the Pikmin, compared to its predecessor Pikmin 2 in which only two leaders were available. Players can instantly switch between these groups in order to accomplish tasks more quickly or solve certain puzzles.<p>
+
+Pikmin 3 originally offered three control schemes: the Wii U GamePad, Wii U Pro Controller or Wii Remote (Plus) with the Nunchuk accessory. In all cases the Wii U GamePad gives the player an overhead map of the game environment, visible on its touch screen. An update, made available on 30 May 2014, allowed for stylus control on the GamePad. The GamePad is used to access the similar-looking "KopPad" in the game, which is used to view the map and other statistics, and for communication with the other squad members. The KopPad also allows players to trace paths on the map, which the in-game characters will automatically begin to follow, and take HD pictures of the surrounding environments, which can then be uploaded to Miiverse.<p>
+
+Aside from a full single-player campaign, the game features split-screen, competitive, two-player multiplayer in a mode called "Bingo Battle". In this mode each player has a 4 by 4 grid of items to collect, and must compete to get four-in-a-row on their board. The game also features "Mission Mode": a single-player or cooperative multiplayer experience where the players are presented with a task based on Pikmin fundamentals, which must be completed in a limited amount of time. There are three trials present within Mission Mode: Collect Treasure, where the players must collect all the fruit and enemies on the map using a set amount of Pikmin before time runs out, Battle Enemies, where the players must kill all the enemies on the map as quickly as possible, and Defeat Bosses, which allows the players to re-encounter the boss creatures from Story Mode.<p>
+
+
+<center><h2>Screenshots</h2><br></center>
+<center>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\PIKMIN 3 S1.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\PIKMIN 3 S2.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\PIKMIN 3 S3.jpg" height=450 width=700>
+<img src="\TOP 30 XBOX GAMES OF ALL TIME\PIKMIN 3 S4.jpg" height=450 width=700>
+</center>
+</div>
+</body>
+</html>

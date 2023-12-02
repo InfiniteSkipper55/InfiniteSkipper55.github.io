@@ -1,0 +1,18 @@
+body {
+    background: url("bgcreed.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+div {
+    width: 60%;
+    height: 200%;
+    margin-left: 200px;
+    background-color: white;
+    opacity: 0.95;
+    padding: 80px;
+}
+
+img {
+    padding: 5px;
+}
